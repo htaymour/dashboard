@@ -9,8 +9,8 @@ Prepare data for next step of machine learning via data visualization to enable 
 
 We also build financial trading bots which are API based, MQL4 based with the biggest trading platforms like Binance and FBS. 
 
-For more information about my profile and portfolio please follow the link : https://bit.ly/3r06iTT
-For Prices and ready-made gadgets please follow the link below with secure project management platform Upwork:
-https://www.upwork.com/workwith/haythamtaymour
+For more information about my profile and portfolio please follow https://bit.ly/3r06iTT
+For Prices and ready-made gadgets please follow the link below with secure project management platform Upwork: https://www.upwork.com/workwith/haythamtaymour
+
 
 
